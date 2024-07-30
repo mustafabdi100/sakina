@@ -1,0 +1,238 @@
+{
+    "stocks": {
+      "PMS": {
+        "quantity": 1000,
+        "lastUpdated": "2024-07-29"
+      },
+      "AGO": {
+        "quantity": 1500,
+        "lastUpdated": "2024-07-28"
+      },
+      "IK": {
+        "quantity": 800,
+        "lastUpdated": "2024-07-27"
+      }
+    },
+    "entries": [
+      {
+        "product": "PMS",
+        "quantity": 800,
+        "lastUpdated": "2024-07-29",
+        "cod": "2024-07-05"
+      },
+      {
+        "product": "AGO",
+        "quantity": 400,
+        "lastUpdated": "2024-07-28",
+        "cod": "2024-07-15"
+      },
+      {
+        "product": "IK",
+        "quantity": 200,
+        "lastUpdated": "2024-07-27",
+        "cod": "2024-07-20"
+      }
+    ],
+    "formEntries": [
+      {
+        "vesselName": "Vessel A",
+        "quantityMT": 100,
+        "quantityM3": 120,
+        "supplier": "GALANA ENERGIES LIMITED",
+        "product": "PMS",
+        "cod": "2024-07-10",
+        "invoiceAmount": 15000,
+        "price": 175.00
+      },
+      {
+        "vesselName": "Vessel B",
+        "quantityMT": 200,
+        "quantityM3": 240,
+        "supplier": "GULF ENERGY LIMITED",
+        "product": "AGO",
+        "cod": "2024-07-12",
+        "invoiceAmount": 30000,
+        "price": 175.00
+      },
+      {
+        "vesselName": "Vessel C",
+        "quantityMT": 150,
+        "quantityM3": 180,
+        "supplier": "ONE PETROLEUM LIMITED",
+        "product": "IK",
+        "cod": "2024-07-14",
+        "invoiceAmount": 22500,
+        "price": 175.00
+      },
+      {
+        "vesselName": "Vessel D",
+        "quantityMT": 250,
+        "quantityM3": 300,
+        "supplier": "GALANA ENERGIES LIMITED",
+        "product": "PMS",
+        "cod": "2024-07-16",
+        "invoiceAmount": 37500,
+        "price": 150.00
+      },
+      {
+        "vesselName": "Vessel E",
+        "quantityMT": 300,
+        "quantityM3": 360,
+        "supplier": "GULF ENERGY LIMITED",
+        "product": "AGO",
+        "cod": "2024-07-18",
+        "invoiceAmount": 45000,
+        "price": 150.00
+      },
+      {
+        "vesselName": "Vessel F",
+        "quantityMT": 180,
+        "quantityM3": 216,
+        "supplier": "ONE PETROLEUM LIMITED",
+        "product": "IK",
+        "cod": "2024-07-20",
+        "invoiceAmount": 27000,
+        "price": 150.00
+      },
+      {
+        "vesselName": "Vessel G",
+        "quantityMT": 220,
+        "quantityM3": 264,
+        "supplier": "GALANA ENERGIES LIMITED",
+        "product": "PMS",
+        "cod": "2024-07-22",
+        "invoiceAmount": 33000,
+        "price": 150.00
+      },
+      {
+        "vesselName": "Vessel H",
+        "quantityMT": 270,
+        "quantityM3": 324,
+        "supplier": "GULF ENERGY LIMITED",
+        "product": "AGO",
+        "cod": "2024-07-24",
+        "invoiceAmount": 40500,
+        "price": 150.00
+      },
+      {
+        "vesselName": "Vessel I",
+        "quantityMT": 160,
+        "quantityM3": 192,
+        "supplier": "ONE PETROLEUM LIMITED",
+        "product": "IK",
+        "cod": "2024-07-26",
+        "invoiceAmount": 24000,
+        "price": 150.00
+      },
+      {
+        "vesselName": "Vessel J",
+        "quantityMT": 130,
+        "quantityM3": 156,
+        "supplier": "GALANA ENERGIES LIMITED",
+        "product": "PMS",
+        "cod": "2024-07-28",
+        "invoiceAmount": 19500,
+        "price": 150.00
+      },
+      {
+        "vesselName": "Vessel K",
+        "quantityMT": 140,
+        "quantityM3": 168,
+        "supplier": "GULF ENERGY LIMITED",
+        "product": "AGO",
+        "cod": "2024-07-30",
+        "invoiceAmount": 21000,
+        "price": 150.00
+      },
+      {
+        "vesselName": "Vessel L",
+        "quantityMT": 175,
+        "quantityM3": 210,
+        "supplier": "ONE PETROLEUM LIMITED",
+        "product": "IK",
+        "cod": "2024-08-01",
+        "invoiceAmount": 26250,
+        "price": 150.00
+      },
+      {
+        "vesselName": "Vessel M",
+        "quantityMT": 200,
+        "quantityM3": 240,
+        "supplier": "GALANA ENERGIES LIMITED",
+        "product": "PMS",
+        "cod": "2024-08-03",
+        "invoiceAmount": 30000,
+        "price": 150.00
+      },
+      {
+        "vesselName": "Vessel N",
+        "quantityMT": 210,
+        "quantityM3": 252,
+        "supplier": "GULF ENERGY LIMITED",
+        "product": "AGO",
+        "cod": "2024-08-05",
+        "invoiceAmount": 31500,
+        "price": 150.00
+      },
+      {
+        "vesselName": "Vessel O",
+        "quantityMT": 185,
+        "quantityM3": 222,
+        "supplier": "ONE PETROLEUM LIMITED",
+        "product": "IK",
+        "cod": "2024-08-07",
+        "invoiceAmount": 27750,
+        "price": 150.00
+      },
+      {
+        "vesselName": "Vessel P",
+        "quantityMT": 120,
+        "quantityM3": 144,
+        "supplier": "GALANA ENERGIES LIMITED",
+        "product": "PMS",
+        "cod": "2024-08-09",
+        "invoiceAmount": 18000,
+        "price": 150.00
+      },
+      {
+        "vesselName": "Vessel Q",
+        "quantityMT": 230,
+        "quantityM3": 276,
+        "supplier": "GULF ENERGY LIMITED",
+        "product": "AGO",
+        "cod": "2024-08-11",
+        "invoiceAmount": 34500,
+        "price": 150.00
+      },
+      {
+        "vesselName": "Vessel R",
+        "quantityMT": 195,
+        "quantityM3": 234,
+        "supplier": "ONE PETROLEUM LIMITED",
+        "product": "IK",
+        "cod": "2024-08-13",
+        "invoiceAmount": 29250,
+        "price": 150.00
+      },
+      {
+        "vesselName": "Vessel S",
+        "quantityMT": 240,
+        "quantityM3": 288,
+        "supplier": "GALANA ENERGIES LIMITED",
+        "product": "PMS",
+        "cod": "2024-08-15",
+        "invoiceAmount": 36000,
+        "price": 150.00
+      },
+      {
+        "vesselName": "Vessel T",
+        "quantityMT": 250,
+        "quantityM3": 300,
+        "supplier": "GULF ENERGY LIMITED",
+        "product": "AGO",
+        "cod": "2024-08-17",
+        "invoiceAmount": 37500,
+        "price": 150.00
+      }
+    ]
+  }
